@@ -1,24 +1,21 @@
 # github-search
 
-## Project setup
+## Instalando as dependências
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+## Levantando o servidor
 ```
 npm run serve
 ```
+## Breve Descrição
 
-### Compiles and minifies for production
-```
-npm run build
-```
+SPA criado utilizando VueJS, Bootstrap Vue e Axios.
 
-### Lints and fixes files
-```
-npm run lint
-```
+No projeto, é possivel realizar uma busca pelo nome de usuario do Github e, a partir do resultado, acessar as listas de repositórios e repositórios mais visitados do mesmo.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Foi utilizada a api do GITHUB https://developer.github.com/v3/ para realizar as requisições de busca de usuários e repositórios.
+
+## Sobre o Desenvolvedor
+E-mail: pfrare.tads@gmail.com. 
+Telegram: @paulofrare
