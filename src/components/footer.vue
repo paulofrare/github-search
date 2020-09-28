@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <p class="text-footer">© 2020 Paulo Frare | Todos os diretos reservados</p>
+    <p class="footer__text">© 2020 Paulo Frare | Todos os diretos reservados</p>
   </div>
 </template>
 
@@ -22,7 +22,7 @@ export default {};
   bottom: 0;
 }
 
-.text-footer {
+.footer__text {
   margin-top: 15px;
   text-align: center;
 }

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="user-nav">
     <b-tabs content-class="mt-3" fill>
       <b-tab @click="fetchRepo('repos')" title="Repositórios" active
         ><repos-list
